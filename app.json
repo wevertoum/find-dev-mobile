@@ -4,6 +4,11 @@
     "slug": "find-dev-mobile",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package": "com.devfindreact.myapp",
+      "versionCode": 1,
+      "icon": "./assets/icon.png"
+    },
     "platforms": [
       "ios",
       "android",
